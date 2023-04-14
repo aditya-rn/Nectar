@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nectar</string>
+    <string name="server_client_id">922333999763-tspanc9ukik1bjjqjthogp1rsct6ai75.apps.googleusercontent.com
+</string>
+    <string name="facebook_app_id">874423843700812</string>
+    <string name="facebook_client_token">2ba9e49993af10c61ad6ab633701ba5a</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+</resources>
